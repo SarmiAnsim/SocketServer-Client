@@ -1,0 +1,16 @@
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\bin\Debug\net5.0\SocketClient.exe
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\bin\Debug\net5.0\SocketClient.deps.json
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\bin\Debug\net5.0\SocketClient.runtimeconfig.json
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\bin\Debug\net5.0\SocketClient.runtimeconfig.dev.json
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\bin\Debug\net5.0\SocketClient.dll
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\bin\Debug\net5.0\ref\SocketClient.dll
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\bin\Debug\net5.0\SocketClient.pdb
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\obj\Debug\net5.0\SocketClient.csproj.AssemblyReference.cache
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\obj\Debug\net5.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\obj\Debug\net5.0\SocketClient.AssemblyInfoInputs.cache
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\obj\Debug\net5.0\SocketClient.AssemblyInfo.cs
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\obj\Debug\net5.0\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\obj\Debug\net5.0\SocketClient.dll
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\obj\Debug\net5.0\ref\SocketClient.dll
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\obj\Debug\net5.0\SocketClient.pdb
+C:\Users\Mihail\source\repos\SocketServer-Client\SocketClient\obj\Debug\net5.0\SocketClient.genruntimeconfig.cache
